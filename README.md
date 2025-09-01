@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🚀 PrepMind – AI-Powered Mock Interview Platform
 
-## Getting Started
+PrepMind is a full-stack platform that helps students and professionals ace technical interviews through AI-driven mock interview practice with real-time feedback and performance tracking.
 
-First, run the development server:
+🔗 Live Demo: https://prep-mind.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+⸻
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+✨ Features
+	•	🧑‍💻 Simulated Interviews – Practice coding & behavioral rounds
+	•	🤖 AI-Powered Feedback – Real-time evaluation of answers & performance
+	•	📊 Performance Tracking – Track growth with insights & analytics
+	•	🔐 Secure User Profiles – Manage interview history & progress safely
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+⸻
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🛠️ Tech Stack
+	•	Frontend: Next.js 14, TypeScript, TailwindCSS
+	•	Backend & Database: Convex (serverless DB)
+	•	Automation: n8n (workflow automation)
+	•	Auth: Clerk Authentication
+	•	AI Integration: Real-time interview analysis & feedback
 
-## Learn More
+⸻
 
-To learn more about Next.js, take a look at the following resources:
+💡 What I Built
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+✅ Full-stack mock interview platform
+✅ AI-powered evaluation system for coding & behavioral questions
+✅ Real-time performance analytics dashboard
+✅ Modern Glassmorphism UI with smooth animations
+✅ Secure user authentication & interview history tracking
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+📬 Contact
 
-## Deploy on Vercel
+👤 Yash Preet (LogicMage)
+	•	GitHub: @logicmage07
+	•	LinkedIn: Yash Preet
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+⸻
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+⭐ If you found this useful, please consider giving the repo a star!
+
+⸻
